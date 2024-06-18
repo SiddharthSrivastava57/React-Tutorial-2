@@ -1,1 +1,1 @@
-# Tutorial 2
+# React + Vite
